@@ -1,0 +1,8 @@
+name: Vue Integration
+type: module
+description: 'Provides functionality for integrating with Vue JS'
+package: VUE
+core_version_requirement: ^8.8 || ^9
+dependencies:
+  - projectname_system:projectname_system
+version: 1.0

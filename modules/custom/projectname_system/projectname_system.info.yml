@@ -1,0 +1,6 @@
+name: ProjectName
+type: module
+description: 'Adding Vue Js libraries.'
+package: VUE
+core_version_requirement: ^8.8 || ^9
+version: 1.0
